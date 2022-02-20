@@ -1,5 +1,5 @@
 name: 'hugo-deploy'
-author: 'reuixiy'
+author: 'cld4h'
 description: 'Deploy your Hugo site to GitHub Pages, via GitHub Actions, with Arch Linux.'
 runs:
   using: 'docker'
