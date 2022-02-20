@@ -1,9 +1,9 @@
-name: 'hugo-deploy'
+name: 'hugo-deploy-with-asciidoctor'
 author: 'cld4h'
-description: 'Deploy your Hugo site to GitHub Pages, via GitHub Actions, with Arch Linux.'
+description: 'Deploy your Hugo site to GitHub Pages, via GitHub Actions, with Arch Linux, add asciidoctor support.'
 runs:
   using: 'docker'
   image: 'Dockerfile'
 branding:
-  icon: 'arrow-up-circle'  
+  icon: 'arrow-up-circle'
   color: 'yellow'
